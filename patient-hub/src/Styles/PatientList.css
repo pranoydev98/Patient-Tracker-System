@@ -1,0 +1,15 @@
+.PatientListName{
+    margin-top: 15px;
+    border: 1px solid black;
+    padding: 10px;
+    box-sizing: border-box;
+    width: 68%;
+}
+
+.PatientListId{
+    margin-top: 15px;
+    border: 1px solid black;
+    padding: 10px;
+    box-sizing: border-box;
+    width: 27%;
+}

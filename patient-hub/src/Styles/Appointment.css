@@ -1,0 +1,28 @@
+.TimeSlot{
+    margin-top: 15px;
+    border: 1px solid black;
+    padding: 10px;
+    box-sizing: border-box;
+    width: 35%;
+}
+
+.PatientName{
+    margin-top: 15px;
+    border: 1px solid black;
+    padding: 10px;
+    box-sizing: border-box;
+    width: 43%;
+}
+
+.PatientId{
+    margin-top: 15px;
+    border: 1px solid black;
+    padding: 10px;
+    box-sizing: border-box;
+    width: 20%;
+}
+
+.daily-schedule-container{
+    flex: 1;
+    overflow-y: auto;
+}
